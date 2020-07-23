@@ -1,0 +1,20 @@
+name: cheaters_update
+
+on:
+  schedule:
+    - cron:  '*/30 * * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: cheaters_update
+      run: |
+        git config user.name "AC7-cheaters"
+        git config user.email "yajyuudesu@gmail.com"
+        bash ./.github/cheaters_update.sh
+        git commit -a -m "Merge"
+        git push
