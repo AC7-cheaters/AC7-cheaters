@@ -1,0 +1,26 @@
+#!/bin/bash 
+
+cheaters_ID=(76561198081430238 76561198379251619)
+cheaters_Name=()
+
+i=0
+for cheater in ${cheaters_ID[*]}
+do
+	Name=`curl https://steamcommunity.com/profiles/$cheater |grep 'class="actual_persona_name"' |head -1 |awk -F'>|<' '{print $3}'`
+	cheaters_Name[$i]=$Name
+	let 'i++'
+done
+echo ${cheaters_Name[*]}
+
+echo '# AC7 cheaters
+
+| name | steam URL |
+| ------ | ------|' > README.md
+
+j=0
+while (($j<i))
+do
+	echo '| '${cheaters_Name[$j]}' | https://steamcommunity.com/profiles/'${cheaters_ID[$j]}' |' >> README.md
+	let 'j++'
+done
+
