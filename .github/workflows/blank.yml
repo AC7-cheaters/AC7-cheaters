@@ -1,11 +1,13 @@
 name: cheaters_update
 
 on:
-  push:
-    branches: master
 #   schedule:
 #     - cron:  '*/30 * * * *'
 
+# test
+  push:
+    branches: master
+    
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -15,8 +17,6 @@ jobs:
 
     - name: cheaters_update
       run: |
-        git config user.name "AC7-cheaters"
-        git config user.email "yajyuudesu@gmail.com"
         bash ./.github/cheaters_update.sh
-        git commit -a -m "Merge"
-        git push
+        bash ./.github/git_push.sh
+
