@@ -1,12 +1,12 @@
 name: cheaters_update
 
 on:
-#   schedule:
-#     - cron:  '*/30 * * * *'
+  schedule:
+    - cron:  '*/30 * * * *'
 
 # test
-  push:
-    branches: master
+#   push:
+#     branches: master
     
 jobs:
   update:
