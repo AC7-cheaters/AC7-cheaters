@@ -1,5 +1,8 @@
 #!/bin/bash 
 
+time=$(date "+%Y-%m-%d %H:%M:%S")
+echo $time
+
 cheaters_ID=(76561198081430238 76561198839646162 76561198073103373 76561198209173436 76561198379251619)
 cheaters_Name=()
 
@@ -15,7 +18,7 @@ echo ${cheaters_Name[*]}
 echo '# AC7 cheaters
 
 | name | steam URL |
-| ------ | ------|' > README.md
+| ------ | ------ |' > README.md
 
 j=0
 while (($j<i))
