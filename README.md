@@ -2,7 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
-| 习近平 | https://steamcommunity.com/profiles/76561198081430238 |
+| Love天安门广场 | https://steamcommunity.com/profiles/76561198081430238 |
 | Genius | https://steamcommunity.com/profiles/76561198839646162 |
 | [FHS] RAPTOR | https://steamcommunity.com/profiles/76561198073103373 |
 | Cerberus | https://steamcommunity.com/profiles/76561198209173436 |
