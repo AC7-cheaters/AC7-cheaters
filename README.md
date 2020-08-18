@@ -2,9 +2,8 @@
 
 | name | steam URL |
 | ------ | ------ |
-| IIIIlllIII | https://steamcommunity.com/profiles/76561198081430238 |
+| عربية | https://steamcommunity.com/profiles/76561198081430238 |
 | Genius | https://steamcommunity.com/profiles/76561198839646162 |
 | [FHS] RAPTOR | https://steamcommunity.com/profiles/76561198073103373 |
 | Cerberus | https://steamcommunity.com/profiles/76561198209173436 |
 | 爷笑虐九州 | https://steamcommunity.com/profiles/76561198973679329 |
-| Redmoon | https://steamcommunity.com/profiles/76561199005129965 |
