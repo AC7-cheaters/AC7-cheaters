@@ -2,7 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
-| 24244322 | https://steamcommunity.com/profiles/76561198081430238 |
+| 689646 | https://steamcommunity.com/profiles/76561198081430238 |
 | Genius | https://steamcommunity.com/profiles/76561198839646162 |
 | [FHS] RAPTOR | https://steamcommunity.com/profiles/76561198073103373 |
 | Cerberus | https://steamcommunity.com/profiles/76561198209173436 |
