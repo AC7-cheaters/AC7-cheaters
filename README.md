@@ -8,4 +8,3 @@
 | Cerberus | https://steamcommunity.com/profiles/76561198209173436 |
 | 爷笑虐九州 | https://steamcommunity.com/profiles/76561198973679329 |
 | FireBrand | https://steamcommunity.com/profiles/76561198026289985 |
-| Synthwave#8174 | https://steamcommunity.com/profiles/76561198140245248 |
