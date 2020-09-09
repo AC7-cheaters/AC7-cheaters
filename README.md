@@ -9,4 +9,4 @@
 | 爷笑虐九州 | https://steamcommunity.com/profiles/76561198973679329 |
 | FireBrand | https://steamcommunity.com/profiles/76561198026289985 |
 | 离线玩www.ishiqiu.com | https://steamcommunity.com/profiles/76561199070000800 |
-| Ali ACF is gayyy | https://steamcommunity.com/profiles/76561199086244180 |
+| you kick me cuz ure bad | https://steamcommunity.com/profiles/76561199086244180 |
