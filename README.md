@@ -2,7 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
-| 9802415 | https://steamcommunity.com/profiles/76561198081430238 |
+| 652415 | https://steamcommunity.com/profiles/76561198081430238 |
 | Genius | https://steamcommunity.com/profiles/76561198839646162 |
 | [FHS] RAPTOR | https://steamcommunity.com/profiles/76561198073103373 |
 | Eunice | https://steamcommunity.com/profiles/76561198209173436 |
