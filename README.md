@@ -2,7 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
-| 雾雨恋色=loser | https://steamcommunity.com/profiles/76561198081430238 |
+| 𐂃𐂃 | https://steamcommunity.com/profiles/76561198081430238 |
 | Genius | https://steamcommunity.com/profiles/76561198839646162 |
 | [FHS] RAPTOR | https://steamcommunity.com/profiles/76561198073103373 |
 | Eunice | https://steamcommunity.com/profiles/76561198209173436 |
