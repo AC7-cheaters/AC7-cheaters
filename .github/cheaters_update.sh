@@ -10,7 +10,7 @@ i=0
 for cheater in ${cheaters_ID[*]}
 do
 	Name=`curl -L https://steamcommunity.com/profiles/$cheater |grep 'class="actual_persona_name"' |head -1 |awk -F'>|<' '{print $3}'`
-	cheaters_Name[$i]=$Name
+	cheaters_Name[$i]=${Name/|/&#124;}
 	let 'i++'
 done
 echo ${cheaters_Name[*]}
