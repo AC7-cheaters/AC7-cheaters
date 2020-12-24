@@ -12,4 +12,4 @@
 | 淘宝:风云游戏 | https://steamcommunity.com/profiles/76561199070000800 |
 | you kick me cuz ure bad | https://steamcommunity.com/profiles/76561199086244180 |
 | Radder | https://steamcommunity.com/profiles/76561198084874424 |
-| ..|.. | https://steamcommunity.com/profiles/76561198108197134 |
+| ..&#124;.. | https://steamcommunity.com/profiles/76561198108197134 |
