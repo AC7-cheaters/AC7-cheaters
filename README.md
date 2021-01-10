@@ -4,7 +4,7 @@
 | ------ | ------ |
 | appl | https://steamcommunity.com/profiles/76561198081430238 |
 | I | https://steamcommunity.com/profiles/76561199048027117 |
-| ッ | https://steamcommunity.com/profiles/76561198107896591 |
+|  | https://steamcommunity.com/profiles/76561198107896591 |
 | Genius | https://steamcommunity.com/profiles/76561198839646162 |
 | [FHS] RAPTOR | https://steamcommunity.com/profiles/76561198073103373 |
 | Eunice | https://steamcommunity.com/profiles/76561198209173436 |
