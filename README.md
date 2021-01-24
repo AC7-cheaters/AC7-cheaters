@@ -15,4 +15,4 @@
 | you kick me cuz ure bad | https://steamcommunity.com/profiles/76561199086244180 |
 | Radder | https://steamcommunity.com/profiles/76561198084874424 |
 | ..&#124;.. | https://steamcommunity.com/profiles/76561198108197134 |
-|  | https://steamcommunity.com/profiles/76561198407886594 |
+| CC直播WisdomTong | https://steamcommunity.com/profiles/76561198407886594 |
