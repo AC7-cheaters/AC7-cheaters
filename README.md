@@ -19,3 +19,4 @@
 | Ass1n9 | https://steamcommunity.com/profiles/76561198101337488 |
 | 一个不正经的老头 | https://steamcommunity.com/profiles/76561198851216499 |
 | ' | https://steamcommunity.com/profiles/76561199066388594 |
+| &lt;font color=rpg#FF3030&gt;Vigoss | https://steamcommunity.com/profiles/76561198078057512 |
