@@ -2,20 +2,20 @@
 
 | name | steam URL |
 | ------ | ------ |
-|  | https://steamcommunity.com/profiles/76561198081430238 |
+| appl | https://steamcommunity.com/profiles/76561198081430238 |
 |  | https://steamcommunity.com/profiles/76561199048027117 |
 | MISTER X | https://steamcommunity.com/profiles/76561198107896591 |
 |  | https://steamcommunity.com/profiles/76561198938976695 |
 |  | https://steamcommunity.com/profiles/76561198839646162 |
 | [FHS] RAPTOR | https://steamcommunity.com/profiles/76561198073103373 |
-| Daedalus | https://steamcommunity.com/profiles/76561198209173436 |
+|  | https://steamcommunity.com/profiles/76561198209173436 |
 | 爷笑虐九州 | https://steamcommunity.com/profiles/76561198973679329 |
 |  | https://steamcommunity.com/profiles/76561198026289985 |
 |  | https://steamcommunity.com/profiles/76561199070000800 |
 |  | https://steamcommunity.com/profiles/76561199086244180 |
 |  | https://steamcommunity.com/profiles/76561198084874424 |
 |  | https://steamcommunity.com/profiles/76561198108197134 |
-|  | https://steamcommunity.com/profiles/76561198407886594 |
+| CC直播WisdomTong | https://steamcommunity.com/profiles/76561198407886594 |
 | Ass1n9 | https://steamcommunity.com/profiles/76561198101337488 |
 | 一个不正经的老头 | https://steamcommunity.com/profiles/76561198851216499 |
 | ' | https://steamcommunity.com/profiles/76561199066388594 |
