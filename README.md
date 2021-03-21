@@ -23,3 +23,4 @@
 | 武破千军 | https://steamcommunity.com/profiles/76561198076137075 |
 | 米飯班主 | https://steamcommunity.com/profiles/76561199032447430 |
 | 网上比街上热闹 | https://steamcommunity.com/profiles/76561199028490431 |
+| GUOZI！ | https://steamcommunity.com/profiles/76561198445457868 |
