@@ -8,7 +8,7 @@
 | 清风班春 | https://steamcommunity.com/profiles/76561198938976695 |
 | Genius | https://steamcommunity.com/profiles/76561198839646162 |
 | [FHS] RAPTOR | https://steamcommunity.com/profiles/76561198073103373 |
-| Daedalus | https://steamcommunity.com/profiles/76561198209173436 |
+|  | https://steamcommunity.com/profiles/76561198209173436 |
 | 九_州 | https://steamcommunity.com/profiles/76561198973679329 |
 | FireBrand | https://steamcommunity.com/profiles/76561198026289985 |
 | 淘宝:风云游戏 | https://steamcommunity.com/profiles/76561199070000800 |
@@ -23,4 +23,4 @@
 | 武破千军 | https://steamcommunity.com/profiles/76561198076137075 |
 | 米飯班主 | https://steamcommunity.com/profiles/76561199032447430 |
 | 网上比街上热闹 | https://steamcommunity.com/profiles/76561199028490431 |
-|  | https://steamcommunity.com/profiles/76561198445457868 |
+| GUOZI ! | https://steamcommunity.com/profiles/76561198445457868 |
