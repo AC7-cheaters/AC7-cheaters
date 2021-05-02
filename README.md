@@ -6,7 +6,7 @@
 | 2634352135 | https://steamcommunity.com/profiles/76561199048027117 |
 | CODENAME 666 | https://steamcommunity.com/profiles/76561198107896591 |
 | 清风班春 | https://steamcommunity.com/profiles/76561198938976695 |
-|  | https://steamcommunity.com/profiles/76561198839646162 |
+| Genius | https://steamcommunity.com/profiles/76561198839646162 |
 | [FHS] RAPTOR | https://steamcommunity.com/profiles/76561198073103373 |
 | Daedalus | https://steamcommunity.com/profiles/76561198209173436 |
 | 九_州 | https://steamcommunity.com/profiles/76561198973679329 |
