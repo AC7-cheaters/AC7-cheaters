@@ -2,7 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
-| appl | https://steamcommunity.com/profiles/76561198081430238 |
+|  | https://steamcommunity.com/profiles/76561198081430238 |
 | run | https://steamcommunity.com/profiles/76561199048027117 |
 | FINAL BOSS | https://steamcommunity.com/profiles/76561198107896591 |
 | 清风班春 | https://steamcommunity.com/profiles/76561198938976695 |
