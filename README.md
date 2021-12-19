@@ -12,12 +12,12 @@
 | 九_州 | https://steamcommunity.com/profiles/76561198973679329 |
 | FireBrand | https://steamcommunity.com/profiles/76561198026289985 |
 | 淘宝:风云游戏 | https://steamcommunity.com/profiles/76561199070000800 |
-|  | https://steamcommunity.com/profiles/76561199086244180 |
+| you kick me cuz ure bad | https://steamcommunity.com/profiles/76561199086244180 |
 | Radder | https://steamcommunity.com/profiles/76561198084874424 |
 | ..&#124;.. | https://steamcommunity.com/profiles/76561198108197134 |
 | CC直播WisdomTong | https://steamcommunity.com/profiles/76561198407886594 |
 | ATHOOD | https://steamcommunity.com/profiles/76561198101337488 |
-|  | https://steamcommunity.com/profiles/76561198851216499 |
+| 一个不正经的老头 | https://steamcommunity.com/profiles/76561198851216499 |
 | ' | https://steamcommunity.com/profiles/76561199066388594 |
 | &lt;font color=rpg#FF3030&gt;Vigoss | https://steamcommunity.com/profiles/76561198078057512 |
 | 武破千军 | https://steamcommunity.com/profiles/76561198076137075 |
