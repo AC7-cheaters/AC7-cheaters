@@ -27,3 +27,4 @@
 | 虚锤子 | https://steamcommunity.com/profiles/76561198368034387 |
 | 葫芦娃 | https://steamcommunity.com/profiles/76561199116012716 |
 | spacewolves | https://steamcommunity.com/profiles/76561198176636826 |
+| xBlazededge | https://steamcommunity.com/profiles/76561199201981441 |
