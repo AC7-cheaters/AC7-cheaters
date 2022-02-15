@@ -5,7 +5,7 @@
 | appl | https://steamcommunity.com/profiles/76561198081430238 |
 | run | https://steamcommunity.com/profiles/76561199048027117 |
 | BOB | https://steamcommunity.com/profiles/76561198107896591 |
-| 清风班春 | https://steamcommunity.com/profiles/76561198938976695 |
+|  | https://steamcommunity.com/profiles/76561198938976695 |
 | Genius | https://steamcommunity.com/profiles/76561198839646162 |
 | [ACE] RAPTOR | https://steamcommunity.com/profiles/76561198073103373 |
 | Erebus | https://steamcommunity.com/profiles/76561198209173436 |
@@ -27,7 +27,7 @@
 | 虚锤子 | https://steamcommunity.com/profiles/76561198368034387 |
 | 葫芦娃 | https://steamcommunity.com/profiles/76561199116012716 |
 | spacewolves | https://steamcommunity.com/profiles/76561198176636826 |
-|  | https://steamcommunity.com/profiles/76561199201981441 |
+| Bad Influence | https://steamcommunity.com/profiles/76561199201981441 |
 | Ran2DangerZone | https://steamcommunity.com/profiles/76561198080498773 |
 | jackykh | https://steamcommunity.com/profiles/76561198083979694 |
 | /aceg/ RocketPowered | https://steamcommunity.com/profiles/76561198127292088 |
