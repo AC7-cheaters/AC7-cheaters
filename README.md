@@ -12,7 +12,7 @@
 | 九_州 | https://steamcommunity.com/profiles/76561198973679329 |
 | FireBrand | https://steamcommunity.com/profiles/76561198026289985 |
 | 淘宝:风云游戏 | https://steamcommunity.com/profiles/76561199070000800 |
-| you kick me cuz ure bad | https://steamcommunity.com/profiles/76561199086244180 |
+|  | https://steamcommunity.com/profiles/76561199086244180 |
 | Radder | https://steamcommunity.com/profiles/76561198084874424 |
 | ..&#124;.. | https://steamcommunity.com/profiles/76561198108197134 |
 | CC直播WisdomTong | https://steamcommunity.com/profiles/76561198407886594 |
@@ -28,6 +28,6 @@
 | 葫芦娃 | https://steamcommunity.com/profiles/76561199116012716 |
 | spacewolves | https://steamcommunity.com/profiles/76561198176636826 |
 | Bad Influence | https://steamcommunity.com/profiles/76561199201981441 |
-|  | https://steamcommunity.com/profiles/76561198080498773 |
-| jackykh | https://steamcommunity.com/profiles/76561198083979694 |
-| 埋 | https://steamcommunity.com/profiles/76561199214277508 |
+| Ranmore2DZ | https://steamcommunity.com/profiles/76561198080498773 |
+|  | https://steamcommunity.com/profiles/76561198083979694 |
+|  | https://steamcommunity.com/profiles/76561199214277508 |
