@@ -30,4 +30,4 @@
 | Bad Influence | https://steamcommunity.com/profiles/76561199201981441 |
 | Ranmore2DZ | https://steamcommunity.com/profiles/76561198080498773 |
 | jackykh | https://steamcommunity.com/profiles/76561198083979694 |
-| 埋 | https://steamcommunity.com/profiles/76561199214277508 |
+|  | https://steamcommunity.com/profiles/76561199214277508 |
