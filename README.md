@@ -17,7 +17,7 @@
 | ..&#124;.. | https://steamcommunity.com/profiles/76561198108197134 |
 | CC直播WisdomTong | https://steamcommunity.com/profiles/76561198407886594 |
 | ATHOOD | https://steamcommunity.com/profiles/76561198101337488 |
-|  | https://steamcommunity.com/profiles/76561198851216499 |
+| 一个不正经的老头 | https://steamcommunity.com/profiles/76561198851216499 |
 | ' | https://steamcommunity.com/profiles/76561199066388594 |
 | &lt;font color=rpg#FF3030&gt;Vigoss | https://steamcommunity.com/profiles/76561198078057512 |
 | 武破千军 | https://steamcommunity.com/profiles/76561198076137075 |
@@ -28,7 +28,7 @@
 | 葫芦娃 | https://steamcommunity.com/profiles/76561199116012716 |
 | spacewolves | https://steamcommunity.com/profiles/76561198176636826 |
 | Bad Influence | https://steamcommunity.com/profiles/76561199201981441 |
-|  | https://steamcommunity.com/profiles/76561198080498773 |
+| RevengerMCU | https://steamcommunity.com/profiles/76561198080498773 |
 | jackykh | https://steamcommunity.com/profiles/76561198083979694 |
 | 埋 | https://steamcommunity.com/profiles/76561199214277508 |
 | OOXX | https://steamcommunity.com/profiles/76561198818703363 |
