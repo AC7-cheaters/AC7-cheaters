@@ -33,6 +33,6 @@
 | 埋 | https://steamcommunity.com/profiles/76561199214277508 |
 | OOXX | https://steamcommunity.com/profiles/76561198818703363 |
 | CHINESE DRONE | https://steamcommunity.com/profiles/76561199247196637 |
-|  | https://steamcommunity.com/profiles/76561198143645427 |
+| LOBO1975 | https://steamcommunity.com/profiles/76561198143645427 |
 | RevengerMCU | https://steamcommunity.com/profiles/76561198080498773 |
 | Pepeg | https://steamcommunity.com/profiles/76561198161141089 |
