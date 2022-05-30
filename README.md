@@ -4,9 +4,9 @@
 | ------ | ------ |
 | appl | https://steamcommunity.com/profiles/76561198081430238 |
 | run | https://steamcommunity.com/profiles/76561199048027117 |
-| Bob Saget | https://steamcommunity.com/profiles/76561198107896591 |
+|  | https://steamcommunity.com/profiles/76561198107896591 |
 |  | https://steamcommunity.com/profiles/76561198938976695 |
-| Genius | https://steamcommunity.com/profiles/76561198839646162 |
+|  | https://steamcommunity.com/profiles/76561198839646162 |
 | [ACE] RAPTOR | https://steamcommunity.com/profiles/76561198073103373 |
 | EreBus | https://steamcommunity.com/profiles/76561198209173436 |
 | 九_州 | https://steamcommunity.com/profiles/76561198973679329 |
@@ -28,8 +28,8 @@
 | 葫芦娃 | https://steamcommunity.com/profiles/76561199116012716 |
 | spacewolves | https://steamcommunity.com/profiles/76561198176636826 |
 | Bad Influence | https://steamcommunity.com/profiles/76561199201981441 |
-| Ranmore4Revenge | https://steamcommunity.com/profiles/76561198080498773 |
-| jackykh | https://steamcommunity.com/profiles/76561198083979694 |
+|  | https://steamcommunity.com/profiles/76561198080498773 |
+|  | https://steamcommunity.com/profiles/76561198083979694 |
 | 埋 | https://steamcommunity.com/profiles/76561199214277508 |
 | OOXX | https://steamcommunity.com/profiles/76561198818703363 |
 | CHINESE DRONE | https://steamcommunity.com/profiles/76561199247196637 |
