@@ -27,7 +27,7 @@
 | 虚锤子 | https://steamcommunity.com/profiles/76561198368034387 |
 | 葫芦娃 | https://steamcommunity.com/profiles/76561199116012716 |
 | spacewolves | https://steamcommunity.com/profiles/76561198176636826 |
-| Bad Influence | https://steamcommunity.com/profiles/76561199201981441 |
+| Selatupura MP Mod | https://steamcommunity.com/profiles/76561199201981441 |
 | Prepare2Ran&amp;Fly | https://steamcommunity.com/profiles/76561198080498773 |
 | jackykh | https://steamcommunity.com/profiles/76561198083979694 |
 | 埋 | https://steamcommunity.com/profiles/76561199214277508 |
