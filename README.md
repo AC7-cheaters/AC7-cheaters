@@ -15,13 +15,13 @@
 | you kick me cuz ure bad | https://steamcommunity.com/profiles/76561199086244180 |
 | Radder | https://steamcommunity.com/profiles/76561198084874424 |
 | ..&#124;.. | https://steamcommunity.com/profiles/76561198108197134 |
-| WisdomTong | https://steamcommunity.com/profiles/76561198407886594 |
+|  | https://steamcommunity.com/profiles/76561198407886594 |
 | ATHOOD | https://steamcommunity.com/profiles/76561198101337488 |
 | 一个不正经的老头 | https://steamcommunity.com/profiles/76561198851216499 |
 | ' | https://steamcommunity.com/profiles/76561199066388594 |
 | &lt;font color=rpg#FF3030&gt;Vigoss | https://steamcommunity.com/profiles/76561198078057512 |
 | 武破千军 | https://steamcommunity.com/profiles/76561198076137075 |
-| 您的米飯班主 | https://steamcommunity.com/profiles/76561199032447430 |
+|  | https://steamcommunity.com/profiles/76561199032447430 |
 | 网上比街上热闹 | https://steamcommunity.com/profiles/76561199028490431 |
 | GUOZI ! | https://steamcommunity.com/profiles/76561198445457868 |
 | 虚锤子 | https://steamcommunity.com/profiles/76561198368034387 |
