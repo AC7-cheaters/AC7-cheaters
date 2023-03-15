@@ -2,7 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
-|  | https://steamcommunity.com/profiles/76561198979114041 |
+| [IUPF]ANTARES_1 | https://steamcommunity.com/profiles/76561198979114041 |
 | appl | https://steamcommunity.com/profiles/76561198081430238 |
 | run | https://steamcommunity.com/profiles/76561199048027117 |
 | .i. | https://steamcommunity.com/profiles/76561198107896591 |
@@ -28,7 +28,7 @@
 | 虚锤子 | https://steamcommunity.com/profiles/76561198368034387 |
 | 葫芦娃 | https://steamcommunity.com/profiles/76561199116012716 |
 | spacewolves | https://steamcommunity.com/profiles/76561198176636826 |
-|  | https://steamcommunity.com/profiles/76561199201981441 |
+| Bad Influence | https://steamcommunity.com/profiles/76561199201981441 |
 | Running4Revenge | https://steamcommunity.com/profiles/76561198080498773 |
 | jackykh | https://steamcommunity.com/profiles/76561198083979694 |
 | 帝宝 | https://steamcommunity.com/profiles/76561199214277508 |
