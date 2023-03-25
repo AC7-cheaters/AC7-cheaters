@@ -2,7 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
-|  | https://steamcommunity.com/profiles/76561198979114041 |
+| [IUPF]ANTARES_1 | https://steamcommunity.com/profiles/76561198979114041 |
 | appl | https://steamcommunity.com/profiles/76561198081430238 |
 | run | https://steamcommunity.com/profiles/76561199048027117 |
 | .i. | https://steamcommunity.com/profiles/76561198107896591 |
@@ -19,7 +19,7 @@
 | WisdomTong | https://steamcommunity.com/profiles/76561198407886594 |
 | ATHOOD | https://steamcommunity.com/profiles/76561198101337488 |
 | 一个不正经的老头 | https://steamcommunity.com/profiles/76561198851216499 |
-|  | https://steamcommunity.com/profiles/76561199066388594 |
+| ^&#124;^ | https://steamcommunity.com/profiles/76561199066388594 |
 | &lt;font color=rpg#FF3030&gt;Vigoss | https://steamcommunity.com/profiles/76561198078057512 |
 | 武破千军 | https://steamcommunity.com/profiles/76561198076137075 |
 | 印度人 | https://steamcommunity.com/profiles/76561199032447430 |
@@ -35,6 +35,6 @@
 | _ | https://steamcommunity.com/profiles/76561198818703363 |
 | CHINESE DRONE | https://steamcommunity.com/profiles/76561199247196637 |
 | LOBO1975 | https://steamcommunity.com/profiles/76561198143645427 |
-|  | https://steamcommunity.com/profiles/76561198080498773 |
+| Running4Revenge | https://steamcommunity.com/profiles/76561198080498773 |
 | Pepeg | https://steamcommunity.com/profiles/76561198161141089 |
 | Player Tag Pending... | https://steamcommunity.com/profiles/76561198035733380 |
