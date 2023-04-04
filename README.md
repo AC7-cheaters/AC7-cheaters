@@ -28,13 +28,13 @@
 | 虚锤子 | https://steamcommunity.com/profiles/76561198368034387 |
 | 葫芦娃 | https://steamcommunity.com/profiles/76561199116012716 |
 | spacewolves | https://steamcommunity.com/profiles/76561198176636826 |
-|  | https://steamcommunity.com/profiles/76561199201981441 |
+| Bad Influence | https://steamcommunity.com/profiles/76561199201981441 |
 | Running4Revenge | https://steamcommunity.com/profiles/76561198080498773 |
-|  | https://steamcommunity.com/profiles/76561198083979694 |
-|  | https://steamcommunity.com/profiles/76561199214277508 |
+| jackykh | https://steamcommunity.com/profiles/76561198083979694 |
+| 帝宝 | https://steamcommunity.com/profiles/76561199214277508 |
 | OOXX | https://steamcommunity.com/profiles/76561198818703363 |
 | CHINESE DRONE | https://steamcommunity.com/profiles/76561199247196637 |
 | LOBO1975 | https://steamcommunity.com/profiles/76561198143645427 |
-|  | https://steamcommunity.com/profiles/76561198080498773 |
-|  | https://steamcommunity.com/profiles/76561198161141089 |
-|  | https://steamcommunity.com/profiles/76561198035733380 |
+| Running4Revenge | https://steamcommunity.com/profiles/76561198080498773 |
+| Pepeg | https://steamcommunity.com/profiles/76561198161141089 |
+| Player Tag Pending... | https://steamcommunity.com/profiles/76561198035733380 |
