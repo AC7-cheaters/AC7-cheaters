@@ -14,7 +14,7 @@
 | FireBrand | https://steamcommunity.com/profiles/76561198026289985 |
 | 老七 | https://steamcommunity.com/profiles/76561199070000800 |
 | you kick me cuz ure bad | https://steamcommunity.com/profiles/76561199086244180 |
-|  | https://steamcommunity.com/profiles/76561198084874424 |
+| Radder | https://steamcommunity.com/profiles/76561198084874424 |
 | ..&#124;.. | https://steamcommunity.com/profiles/76561198108197134 |
 | WisdomTong | https://steamcommunity.com/profiles/76561198407886594 |
 | ATHOOD | https://steamcommunity.com/profiles/76561198101337488 |
@@ -34,7 +34,7 @@
 | 帝宝 | https://steamcommunity.com/profiles/76561199214277508 |
 | 3D | https://steamcommunity.com/profiles/76561198818703363 |
 | CHINESE DRONE | https://steamcommunity.com/profiles/76561199247196637 |
-| LOBO1975 | https://steamcommunity.com/profiles/76561198143645427 |
+| 76561198143645427 | https://steamcommunity.com/profiles/76561198143645427 |
 | Running4Revenge | https://steamcommunity.com/profiles/76561198080498773 |
-| Pepeg | https://steamcommunity.com/profiles/76561198161141089 |
+|  | https://steamcommunity.com/profiles/76561198161141089 |
 | Player Tag Pending... | https://steamcommunity.com/profiles/76561198035733380 |
