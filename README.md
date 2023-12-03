@@ -32,7 +32,7 @@
 | Running4Revenge | https://steamcommunity.com/profiles/76561198080498773 |
 | jackykh | https://steamcommunity.com/profiles/76561198083979694 |
 | 帝宝 | https://steamcommunity.com/profiles/76561199214277508 |
-| bruh | https://steamcommunity.com/profiles/76561198818703363 |
+| OX | https://steamcommunity.com/profiles/76561198818703363 |
 | CHINESE DRONE | https://steamcommunity.com/profiles/76561199247196637 |
 | LOBO1975 | https://steamcommunity.com/profiles/76561198143645427 |
 | Running4Revenge | https://steamcommunity.com/profiles/76561198080498773 |
