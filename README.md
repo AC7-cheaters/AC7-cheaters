@@ -9,7 +9,7 @@
 | 清风班春 | https://steamcommunity.com/profiles/76561198938976695 |
 | Genius | https://steamcommunity.com/profiles/76561198839646162 |
 | [ACE] RAPTOR | https://steamcommunity.com/profiles/76561198073103373 |
-| 𝐸𝑟𝑒𝐵𝑢𝑠 | https://steamcommunity.com/profiles/76561198209173436 |
+| 𝒮𝑒𝓁𝑒𝓃𝑒 | https://steamcommunity.com/profiles/76561198209173436 |
 | 九_州 | https://steamcommunity.com/profiles/76561198973679329 |
 | FireBrand | https://steamcommunity.com/profiles/76561198026289985 |
 | 老七 | https://steamcommunity.com/profiles/76561199070000800 |
