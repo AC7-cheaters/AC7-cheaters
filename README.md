@@ -2,7 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
-|  | https://steamcommunity.com/profiles/76561198979114041 |
+| [IUPF]ANTARES_1 | https://steamcommunity.com/profiles/76561198979114041 |
 | 180 | https://steamcommunity.com/profiles/76561198081430238 |
 | 180.2 | https://steamcommunity.com/profiles/76561199048027117 |
 | .i. | https://steamcommunity.com/profiles/76561198107896591 |
