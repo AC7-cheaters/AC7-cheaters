@@ -2,7 +2,7 @@
 
 | name | steam URL |
 | ------ | ------ |
-|  | https://steamcommunity.com/profiles/76561198979114041 |
+| [IUPF]ANTARES_1 | https://steamcommunity.com/profiles/76561198979114041 |
 | 180 | https://steamcommunity.com/profiles/76561198081430238 |
 | 180.2 | https://steamcommunity.com/profiles/76561199048027117 |
 | .i. | https://steamcommunity.com/profiles/76561198107896591 |
@@ -13,9 +13,9 @@
 | 九_州 | https://steamcommunity.com/profiles/76561198973679329 |
 | FireBrand | https://steamcommunity.com/profiles/76561198026289985 |
 | 老七 | https://steamcommunity.com/profiles/76561199070000800 |
-|  | https://steamcommunity.com/profiles/76561199086244180 |
+| you kick me cuz ure bad | https://steamcommunity.com/profiles/76561199086244180 |
 | Radder | https://steamcommunity.com/profiles/76561198084874424 |
-|  | https://steamcommunity.com/profiles/76561198108197134 |
+| ..|#124;.. | https://steamcommunity.com/profiles/76561198108197134 |
 | WisdomTong | https://steamcommunity.com/profiles/76561198407886594 |
 | ATHOOD | https://steamcommunity.com/profiles/76561198101337488 |
 | 一个不正经的老头 | https://steamcommunity.com/profiles/76561198851216499 |
@@ -28,11 +28,11 @@
 | Hydra9 | https://steamcommunity.com/profiles/76561198368034387 |
 | 葫芦娃 | https://steamcommunity.com/profiles/76561199116012716 |
 | spacewolves | https://steamcommunity.com/profiles/76561198176636826 |
-|  | https://steamcommunity.com/profiles/76561199201981441 |
+| Bad Influence | https://steamcommunity.com/profiles/76561199201981441 |
 | Running4Revenge | https://steamcommunity.com/profiles/76561198080498773 |
 | jackykh | https://steamcommunity.com/profiles/76561198083979694 |
 | 帝宝 | https://steamcommunity.com/profiles/76561199214277508 |
-|  | https://steamcommunity.com/profiles/76561198818703363 |
+| OOXX | https://steamcommunity.com/profiles/76561198818703363 |
 | CHINESE DRONE | https://steamcommunity.com/profiles/76561199247196637 |
 | LOBO1975 | https://steamcommunity.com/profiles/76561198143645427 |
 | Running4Revenge | https://steamcommunity.com/profiles/76561198080498773 |
